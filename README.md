@@ -2,6 +2,8 @@
 
 A completely new and redesigned Amazon Clone using HTML, Tailwind CSS, and ES6 JavaScript.
 
+<hr>
+
 <img src="images/amazon-idea 1.webp" />&nbsp;&nbsp;&nbsp;
 <img src="images/amazon-idea 2.webp" />&nbsp;&nbsp;
 
