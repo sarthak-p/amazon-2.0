@@ -2,6 +2,9 @@
 
 A completely new and redesigned Amazon Clone using HTML, Tailwind CSS, and ES6 JavaScript.
 
+View live demo here: https://sarthak-p.github.io/amazon-2.0/
+
+
 <hr>
 
 <img src="images/amazon-idea 1.webp" />&nbsp;&nbsp;&nbsp;
