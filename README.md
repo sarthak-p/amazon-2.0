@@ -1,6 +1,6 @@
 # Amazon 2.0
 
-A completely new and redesigned Amazon Clone (front-end only) using HTML, Tailwind CSS, and ES6 JavaScript.
+A completely new and redesigned static Amazon Clone (front-end only) using HTML, Tailwind CSS, and ES6 JavaScript.
 
 View live demo here: https://sarthak-p.github.io/amazon-2.0/
 
